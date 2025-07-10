@@ -1,0 +1,24 @@
+{
+  "name": "gml-launcher-render",
+  "version": "1.0.0",
+  "description": "GML Launcher deployment for Render.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gml",
+    "launcher",
+    "minecraft",
+    "render"
+  ],
+  "author": "GML Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
